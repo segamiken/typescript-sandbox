@@ -1,0 +1,3 @@
+[submodule "book-mathematics-algorithm/answers"]
+	path = book-mathematics-algorithm/answers
+	url = https://github.com/E869120/math-algorithm-book.git
